@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring FrontEnd Web developer
+🚀 Aspiring FrontEnd Engineer
 
 
 ## 🌐 Socials:
