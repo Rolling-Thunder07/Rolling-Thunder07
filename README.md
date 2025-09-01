@@ -4,10 +4,11 @@
 Aspiring Frontend Developer 🚀🌿
 </div>
 
-<div align=center>
+<div align="center">
   
-![ramen-tonkotsu](https://github.com/user-attachments/assets/49ff72a7-128f-4d63-9f25-d66f4774ee4d)
+![ezgif-3d494f1827898e](https://github.com/user-attachments/assets/f085d662-e039-498d-a0b8-eb68f5db94c2)
 </div>
+
 <div align=center>
 
 ## 🌐 Socials:
