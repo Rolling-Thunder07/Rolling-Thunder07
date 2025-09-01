@@ -4,6 +4,11 @@
 Aspiring Frontend Developer 🚀🌿
 </div>
 <br>
+<div align="center">
+  
+![ezgif-3d494f1827898e](https://github.com/user-attachments/assets/f085d662-e039-498d-a0b8-eb68f5db94c2)
+</div>
+<br>
 
 <div align=center>
 
@@ -22,11 +27,7 @@ Aspiring Frontend Developer 🚀🌿
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-<div align="center">
-  
-![ezgif-3d494f1827898e](https://github.com/user-attachments/assets/f085d662-e039-498d-a0b8-eb68f5db94c2)
-</div>
-<br>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rolling-Thunder07&limit=5&theme=dark&combine_all_yearly_contributions=true)
