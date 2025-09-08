@@ -1,7 +1,7 @@
 <div align=center>
   
 # 💫 About Me:
-Aspiring Frontend Developer 🚀🌿
+Aspiring FullStack Engineer 🚀🌿
 </div>
 <br>
 <div align="center">
